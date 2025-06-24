@@ -3,6 +3,6 @@
 To run:
 - download dataset using reference at the beginning of the notebook
 
-![Alt text](monet1.jpeg) 
-![Alt text](monet2.jpeg) 
-![Alt text](monet3.jpeg) 
+![Alt text](monet1.jpg) 
+![Alt text](monet2.jpg) 
+![Alt text](monet3.jpg) 
